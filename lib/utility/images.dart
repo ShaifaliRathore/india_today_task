@@ -1,6 +1,5 @@
 class Images {
   static const ask = "assets/ask.png";
-  static const chat = "assets/chat.png";
   static const filter = "assets/filter.png";
   static const hamburger = "assets/hamburger.png";
   static const home = "assets/home.png";
